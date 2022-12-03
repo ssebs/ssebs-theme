@@ -17,5 +17,9 @@
         "path": "./themes/ssebs-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssebs:ssebs-theme.git"
   }
 }
