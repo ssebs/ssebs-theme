@@ -5,4 +5,4 @@ Sebastian Safari's custom theme.
 https://marketplace.visualstudio.com/items?itemName=SebastianSafari.ssebs-theme
 
 ## Screenshot
-![screenshot](./screenshot.png)
+![screenshot](https://github.com/ssebs/ssebs-theme/blob/main/screenshot.png)

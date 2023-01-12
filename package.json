@@ -2,9 +2,9 @@
   "name": "ssebs-theme",
   "displayName": "ssebs-theme",
   "description": "Sebastian Safari's custom theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
