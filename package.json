@@ -19,8 +19,11 @@
     ]
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/ssebs:ssebs-theme.git"
+    "type": "https",
+    "url": "https://github.com/ssebs/ssebs-theme.git"
   },
-  "publisher": "SebastianSafari"
+  "publisher": "SebastianSafari",
+  "dependencies": {
+    "@vscode/vsce": "^3.4.2"
+  }
 }

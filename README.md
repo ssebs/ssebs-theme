@@ -3,9 +3,10 @@
 Sebastian Safari's custom theme.
 
 https://marketplace.visualstudio.com/items?itemName=SebastianSafari.ssebs-theme
+https://open-vsx.org/extension/SebastianSafari/ssebs-theme
 
 ## Screenshot
-![screenshot](https://github.com/ssebs/ssebs-theme/blob/main/screenshot.png)
+![screenshot](https://github.com/ssebs/ssebs-theme/blob/main/screenshot.png?raw=true)
 
 ## Updating
 > This is a reminder for me on how to update this extension
