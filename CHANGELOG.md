@@ -8,3 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 ## [v0.0.2]
 - Allow older versions of VSCode
+## [v0.0.3]
+- Change sidebar colors, make it more "modern"
+

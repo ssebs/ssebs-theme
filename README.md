@@ -3,6 +3,7 @@
 Sebastian Safari's custom theme.
 
 https://marketplace.visualstudio.com/items?itemName=SebastianSafari.ssebs-theme
+
 https://open-vsx.org/extension/SebastianSafari/ssebs-theme
 
 ## Screenshot

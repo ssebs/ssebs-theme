@@ -2,7 +2,7 @@
   "name": "ssebs-theme",
   "displayName": "ssebs-theme",
   "description": "Sebastian Safari's custom theme.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -14,7 +14,7 @@
       {
         "label": "ssebs theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ssebs-color-theme.json"
+        "path": "./themes/ssebs-theme-v2-color-theme.json"
       }
     ]
   },
