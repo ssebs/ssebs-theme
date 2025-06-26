@@ -12,8 +12,12 @@ https://open-vsx.org/extension/SebastianSafari/ssebs-theme
 ## Updating
 > This is a reminder for me on how to update this extension
 - Follow https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+<!-- - https://dev.azure.com/ssebs/_usersSettings/tokens
+- https://marketplace.visualstudio.com/manage/publishers/sebastiansafari/extensions/ssebs-theme/hub -->
 
 ### Steps:
-- Install `@vscode/vsce`
+- Install npm
+- `npm i -g @vscode/vsce`
+- `npm i`
 - `vsce package`
 - `vsce publish` if that works
